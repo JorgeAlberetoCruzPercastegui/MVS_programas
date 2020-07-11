@@ -24,6 +24,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  *
  * @author jorgepercastegui
  * ESTE ES UN PROGRAMA DE LA EMPRESA MVS
+ * SON DE UN SOLO CLIENTE
  */
 public class GenerarArchivoXMLMegaCable {
 
